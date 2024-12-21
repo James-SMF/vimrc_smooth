@@ -1,6 +1,9 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Maintainer: 
+" Original Author: 
 "       Amir Salihefendic -@amix3k
+"
+" Modified By:
+"       James L. - @James-SMF
 "
 " Awesome_version:
 "       Get this config, nice color schemes and lots of plugins!
